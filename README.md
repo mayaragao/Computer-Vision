@@ -1,5 +1,5 @@
 # Visão Computacional
-Repositório com algumas técnicas de Visão Computacional desenvolvidas durante o curso de Introdução a Visão Computacional (NCG040).
+Repositório com técnicas desenvolvidas durante o curso de Introdução a Visão Computacional (NCG040).
 
 ### Exercícios Introdutórios
  Métodos:
