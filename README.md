@@ -8,7 +8,7 @@ Repositório com técnicas desenvolvidas durante o curso de Introdução a Visã
    * [Lista 1](Colabs/Lista1.ipynb)
    
   
-### Suavização e Introdução a Segmentação de Imagens
+### Suavização e Introdução a Redução de Ruidos
  Métodos:
    Blur e Thresholding.
    
