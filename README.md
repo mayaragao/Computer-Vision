@@ -5,7 +5,7 @@ Repositório com algumas técnicas de Visão Computacional desenvolvidas durante
  Métodos:
     Utilização das Bibliotecas NumPy e Matplotlib, PIL.
     
-   * [Lista 1](https://https://github.com/mayaragao/Visao-Computacional/blob/master/Colabs/Lista1.ipynb)
+   * [Lista 1](Colabs/Lista1.ipynb)
    
   
 ### Suavização e Introdução a Segmentação de Imagens
