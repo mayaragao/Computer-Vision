@@ -12,33 +12,33 @@ Repositório com algumas técnicas de Visão Computacional desenvolvidas durante
  Métodos:
    Blur e Thresholding.
    
-   * [Lista 2](https://https://github.com/mayaragao/Visao-Computacional/blob/master/Colabs/Lista2.ipynb)
+   * [Lista 2](Colabs/Lista2.ipynb)
       
     
 ### Detecção de Bordas, de Cantos, de Grid e de Contornos
  Métodos:
     Blur, Thresholding, Canny Edge Detection, Corner Harris Detection, Shi-Tomasi Corner Detection, Grid Detection.
    
-   * [Lista 3](https://https://github.com/mayaragao/Visao-Computacional/blob/master/Colabs/Lista3.ipynb)
+   * [Lista 3](Colabs/Lista3.ipynb)
   
 
 ### Detecção de Objetos, Correspondência de Características e Detecção de Padrões em Grid
  Métodos:
     HaarCascades, Feature Matching, Template Matching.
 
-   * [Lista 4](https://https://github.com/mayaragao/Visao-Computacional/blob/master/Colabs/Lista4.ipynb)
+   * [Lista 4](Colabs/Lista4.ipynb)
 
 
 ### Redes Neurais Convolucionais para Classificação de Dataset
  Métodos:
     Convolutional neural networks (CNN).
 
-   * [Lista 5](https://https://github.com/mayaragao/Visao-Computacional/blob/master/Colabs/Lista5.ipynb)
+   * [Lista 5](Colabs/Lista5.ipynb)
   
 
 ### Transferência de Aprendizado
  Métodos:
     Transfer Learning.
 
-   * [Lista 6](https://https://github.com/mayaragao/Visao-Computacional/blob/master/Colabs/Lista6.ipynb)
+   * [Lista 6](Colabs/Lista6.ipynb)
   
